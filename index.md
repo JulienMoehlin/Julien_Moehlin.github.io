@@ -1,4 +1,4 @@
-# Multilayer tool
+# Multilayer
 
 ![](images/multilayer/logo.png)
 
