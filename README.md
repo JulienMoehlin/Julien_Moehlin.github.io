@@ -4,7 +4,7 @@
 
 # Tetramer
 
-![tetramer logo](images/tetramer/logo.png){:height="50%" width="50%"}
+<img src="images/tetramer/logo.png" width="50%" height="50%">
 
 [Cytoscape plugin](http://apps.cytoscape.org/apps/tetramer)
 
