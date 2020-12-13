@@ -21,11 +21,10 @@ Coming soon.
 
 #### Password Generator
 ------
-<center><a href=""><img src="images/password_generator/logo_pwGenerator.png" width="50%" height="50%"></a></center>
 
 <a href="https://gitlab.com/julienmoehlin"><img src="images/password_generator/gitlab_pwGenerator.png" width="25%" height="25%"></a>
 
-A tool which provide random passwords.
+As personal project, I developed a tool which provide random passwords with graphical user interface. You can grab it on my gitlab.
 
 <a href=""><img src="images/password_generator/gui_pwGenerator.png" width="50%" height="50%"></a>
 
