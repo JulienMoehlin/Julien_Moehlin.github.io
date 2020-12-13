@@ -21,7 +21,7 @@ Coming soon.
 
 #### Password Generator
 ------
-<center><a href=""><img src="images/password_generator/logo_pwGenerator" width="25%" height="25%"></a></center>
+<center><a href=""><img src="images/password_generator/logo_pwGenerator.png" width="25%" height="25%"></a></center>
 
 <a href="https://gitlab.com/julienmoehlin"><img src="images/password_generator/gitlab_pwGenerator.png" width="25%" height="25%"></a>
 
