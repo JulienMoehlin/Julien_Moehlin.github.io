@@ -3,7 +3,7 @@
 
 ### Multilayer
 ------
-![](images/multilayer/logo.png)
+<center><a href=""><img src="images/multilayer/logo.png" width="50%" height="50%"></a></center>
 
 Coming soon.
 
