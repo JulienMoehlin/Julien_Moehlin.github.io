@@ -22,7 +22,7 @@ Coming soon.
 #### Password Generator
 ------
 
-<a href="https://www.nature.com/articles/s41540-018-0066-z"><img src="images/tetramer/gui_pwGenerator.png" width="25%" height="25%"></a>
+<a href=""><img src="images/password_generator/gui_pwGenerator.png" width="75%" height="75%"></a>
 
 Coming soon.
 
