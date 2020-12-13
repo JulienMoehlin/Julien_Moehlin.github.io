@@ -8,7 +8,10 @@
 #### Tetramer
 ------
 <a href="http://www.ngs-qc.org/tetramer/index.php"><img src="images/tetramer/logo.png" width="25%" height="25%"></a>
-<a href="https://www.nature.com/articles/s41540-018-0066-z"><img src="images/tetramer/doi_tetramer.png" width="25%" height="25%"></a><a href="http://apps.cytoscape.org/apps/tetramer"><img src="images/tetramer/cytoscape_tetramer.png" width="25%" height="25%"></a>
+
+<a href="https://www.nature.com/articles/s41540-018-0066-z"><img src="images/tetramer/doi_tetramer.png" width="25%" height="25%"></a>
+
+<a href="http://apps.cytoscape.org/apps/tetramer"><img src="images/tetramer/cytoscape_tetramer.png" width="25%" height="25%"></a>
 
 
 <p align="justify">
