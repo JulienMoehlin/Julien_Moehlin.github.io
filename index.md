@@ -9,6 +9,7 @@
 ------
 <img src="images/tetramer/logo.png" width="25%" height="25%">
 
+<a href="https://www.nature.com/articles/s41540-018-0066-z"><img src="images/tetramer/doi_tetramer.png" width="5%" height="5%"></a>
 
 [![DIO](images/tetramer/doi_tetramer.png)](https://www.nature.com/articles/s41540-018-0066-z)
 
