@@ -26,7 +26,7 @@ Coming soon.
 
 As personal project, I developed a tool which provide random passwords with graphical user interface. You can grab it on my gitlab.
 
-<a href=""><img src="images/password_generator/pwGeneratorGui.gif" width="30%" height="30%"></a>
+<a href=""><img src="images/password_generator/pwGeneratorGui.gif" width="50%" height="50%"></a>
 
 Coming soon.
 
