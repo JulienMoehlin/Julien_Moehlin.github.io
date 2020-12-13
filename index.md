@@ -24,7 +24,7 @@ Coming soon.
 
 <a href="https://gitlab.com/julienmoehlin"><img src="images/password_generator/gitlab_pwGenerator.png" width="25%" height="25%"></a>
 
-<a href=""><img src="images/password_generator/gui_pwGenerator.png" width="100%" height="100%"></a>
+<a href=""><img src="images/password_generator/gui_pwGenerator.png" width="50%" height="50%"></a>
 
 Coming soon.
 
