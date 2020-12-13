@@ -22,7 +22,7 @@ Coming soon.
 #### Password Generator
 ------
 
-<a href=""><img src="images/password_generator/gui_pwGenerator.png" width="75%" height="75%"></a>
+<a href=""><img src="images/password_generator/gui_pwGenerator.png" width="35%" height="35%"></a>
 
 Coming soon.
 
