@@ -9,6 +9,9 @@
 ------
 <img src="images/tetramer/logo.png" width="25%" height="25%">
 
+
+[![DIO](images/tetramer/doi_tetramer.png)](https://www.nature.com/articles/s41540-018-0066-z)
+
 [Cytoscape plugin](http://apps.cytoscape.org/apps/tetramer)
 
 <p align="justify">
